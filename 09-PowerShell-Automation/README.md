@@ -2,7 +2,7 @@
 
 ## Overview
 
-This module automates identity lifecycle reconciliation between authoritative HR data and Active Directory.
+This module automates identity lifecycle reconciliation between authoritative HR data and Active Directory
 
 The PowerShell engine evaluates the desired identity state defined by HR against the current Active Directory state and automatically reconciles identity attributes and department-based access.
 
