@@ -5,7 +5,7 @@
 
 ## Purpose
 
-This standard establishes consistent requirements for creating, managing, modifying, and removing identities within Contoso's enterprise environment
+This standard establishes consistent requirements for creating, managing, modifying, and removing identities within Contoso's enterprise environment.
 
 The objective is to reduce inconsistent administrative practices, prevent excessive access, enforce least privilege, and establish a standardized identity lifecycle.
 
