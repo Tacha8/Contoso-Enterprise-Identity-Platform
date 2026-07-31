@@ -1,7 +1,7 @@
 # Identity Governance
 
 
-# Contoso Identity & Access Management Standard
+## Contoso Identity & Access Management Standard
 
 ## Purpose
 
