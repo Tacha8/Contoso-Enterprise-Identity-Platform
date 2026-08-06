@@ -89,11 +89,11 @@ The primary goals of this project are to:
 | **07-Identity-Governance** | Identity Governance, access reviews, lifecycle management, and compliance |
 | **08-Enterprise-Applications** | Enterprise application integration and Single Sign-On configuration |
 | **09-PowerShell-Automation** | Joiner-Mover-Leaver (JML) automation using PowerShell |
-| **10-Identity-Attack-Lab** | Identity attack simulations and detection techniques |
+| **10-Identity-Attack-Lab** | (COMING SOON) Identity attack simulations and detection techniques |
 | **11-Microsoft-Defender-XDR** | Endpoint detection, investigation, and response workflows |
 | **12-Microsoft-Sentinel** | SIEM deployment, KQL queries, analytics, and incident investigation |
-| **13-Zero-Trust** | Zero Trust identity architecture and security model |
-| **15-Documentation** | Supporting documentation, diagrams, screenshots, and reference material |
+
+
 
 ---
 
